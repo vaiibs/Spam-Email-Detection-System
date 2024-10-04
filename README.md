@@ -10,9 +10,10 @@ Key Features
 
       Email Analysis
       SMOTE for Data Imbalance
-      Interactive Interface
       TF-IDF Vectorization
       Spam Classification Logistic Regression Model
+      Model Serialization with Pickle
+      Interactive Interface
       Downloadable Results
 
 Technologies Used:
